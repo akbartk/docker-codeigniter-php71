@@ -86,4 +86,4 @@ The following variables trigger actions run by the entrypoint script at runtime.
 
 
 original from :
-[https://github.com/aspendigital/docker-codeigniter](https://github.com/aspendigital/docker-codeigniter)
+[aspendigital/docker-codeigniter](https://github.com/aspendigital/docker-codeigniter)
