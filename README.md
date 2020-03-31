@@ -12,7 +12,6 @@ This image serves as a starting point for legacy CodeIgniter projects.
 - `php5.6-apache`: [Dockerfile.php5.6](https://github.com/aspendigital/docker-codeigniter/blob/master/Dockerfile)
 - `php7.1-apache`, `latest` : [Dockerfile](https://github.com/aspendigital/docker-codeigniter/blob/master/Dockerfile.php7.1)
 
-
 ## Quick Start
 
 Start a container using the latest image, mapping your local port 80 to the container's port 80:
