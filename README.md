@@ -1,3 +1,6 @@
+original from :
+[aspendigital/docker-codeigniter](https://github.com/aspendigital/docker-codeigniter)
+
 # Docker + CodeIgniter 1.7.3
 
 This image serves as a starting point for legacy CodeIgniter projects.
@@ -83,7 +86,3 @@ The following variables trigger actions run by the entrypoint script at runtime.
 | PHP_MEMORY_LIMIT | 128M | Override value for `memory_limit` in docker-ci-php.ini |
 | PHP_UPLOAD_MAX_FILESIZE | 32M | Override value for `upload_max_filesize` in docker-ci-php.ini |
 | TZ | UTC | Override value for `data.timezone` in docker-ci-php.ini |
-
-
-original from :
-[aspendigital/docker-codeigniter](https://github.com/aspendigital/docker-codeigniter)
